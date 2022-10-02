@@ -8,7 +8,7 @@ body {
   align-items: center;
   padding-top: 40px;
   padding-bottom: 40px;
-  background-image: radial-gradient(circle at 50% -3.03%, #00ffff 0, #00e6ff 25%, #0cc1ed 50%, #329ec4 75%, #3a7f9f 100%);;
+  background-color: #f5f5f5;
 }
 
 .form-signin {
@@ -24,7 +24,6 @@ body {
   margin-bottom: -1px;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
-  background-image: radial-gradient(circle at 50% -3.03%, #00ffff 0, #00e6ff 25%, #0cc1ed 50%, #329ec4 75%, #3a7f9f 100%);
 }
 
 .form-signin input[type="password"] {
